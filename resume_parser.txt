@@ -1,0 +1,19 @@
+Name: Likitha Baddiputi
+
+Email: zhi@gmail.com
+Alternate Email: likitha.rvce2025@edu.in
+Phone: +91-9876543210
+
+Education:
+RV College of Engineering – B.Tech in Computer Science – 2025
+PU at Deeksha College – 2023
+10th from Kendriya Vidyalaya – 2021
+
+Skills:
+Python, Flask, GitHub, Data Analysis, SQL, Java
+
+Experience:
+Interned at Infosys as a Software Engineer Trainee
+Built an AI Resume Screener using Python and Scikit-learn
+Worked on a contact book app with Flask and SQLite
+Contributed to open-source project on GitHub
